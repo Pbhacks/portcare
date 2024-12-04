@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:portcare/splash_screen.dart';
 import 'package:provider/provider.dart';
 import 'welcome_page.dart';
 import 'theme_provider.dart';
@@ -24,7 +25,7 @@ class PortCareApp extends StatelessWidget {
           theme: themeProvider.lightTheme,
           darkTheme: themeProvider.darkTheme,
           themeMode: themeProvider.themeMode,
-          home: WelcomePage(),
+          home: SplashScreen(),
         );
       },
     );
