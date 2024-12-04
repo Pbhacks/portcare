@@ -2,6 +2,9 @@
 
 **PortCare** is a medical management app designed to streamline the processes of consultations, appointments, and staff coordination in healthcare environments. This app provides an efficient way for doctors, booth staff, and patients to interact, ensuring a seamless and organized healthcare experience. 
 
+<img src="https://github.com/Pbhacks/portcare/blob/main/a.png" width="300"/> <img src="https://github.com/Pbhacks/portcare/blob/main/b.png" width="300"/>
+
+
 ## Features
 
 - **Doctor Dashboard**: A dedicated space for doctors to manage patient consultations, view detailed patient records, and track their ongoing cases.
